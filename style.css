@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    font-size: 2 4px;
+    color: #F9FAF8;
+    margin-left: 100px;
+    padding: 10px;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #F9FAF8;
+}
+
+.brand-name{
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.secondary-text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.section-one{
+    background-color: #1F2937;
+}
+
+.hero-image{
+    width:500px;
+    height: 300px;
+    border-radius: 2px;
+}
+
+.sign-one{
+    border: none;
+    color: white;
+    background-color: #3882F6;
+    padding: 4px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 10px 0px;
+}
+
+.service-head{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.simage{
+    width: 150px;
+    height:150px;
+    border: 4px solid #3882F6;
+    border-radius: 15px;
+}
+
+.section-three{
+    background-color: #E5E7EB;
+}
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.name{
+    font-weight: bolder;
+    text-align: end;
+}
+
+.quote-section{
+    width: 800px;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 80px;
+}
+
+.pop{
+    background-color: #3882F6;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border-radius: 5px;
+    padding: 30px 100px;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sign-two{
+    border: none;
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    color: #F9FAF8;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.section-five{
+    background-color: #1F2937;
+}
+
+.copyright{
+    color: #F9FAF8;
+    text-align: center;
+    padding: 20px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    gap: 40px;
+    margin-right: 100px;
+    padding: 10px;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+}
+
+.service{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin: 40px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+.fig{
+    color: #1F2937;
+}
+
+.action{
+    font-weight: bolder;
+}
+
+.call{
+    width: 500px;
+}
